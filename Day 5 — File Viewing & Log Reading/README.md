@@ -2,7 +2,6 @@
 
 ## Commands Practiced
 
-```bash
 echo "Hello" > test.txt               # Create/overwrite file
 echo "Hi" >> test.txt                 # Append text
 
